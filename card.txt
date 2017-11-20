@@ -1,0 +1,3 @@
+khushi	marriage	100
+a	z	1
+q	w	1
